@@ -38,6 +38,9 @@
 * تابع خطا (Loss Function): Sparse Categorical Crossentropy
 * استفاده از EarlyStopping برای جلوگیری از بیش‌برازش (Overfitting)
 
-## نتایج
 
-مدل آموزش‌دیده قادر است تصاویر اعداد دست‌نویس را از ۰ تا ۹ طبقه‌بندی کند و نتایج پیش‌بینی را روی تصاویر تست نمایش دهد.
+## نتایج مدل
+
+نمونه‌ای از پیش‌بینی مدل روی تصاویر تست:
+
+![Prediction Result](images/prediction_result.png).
