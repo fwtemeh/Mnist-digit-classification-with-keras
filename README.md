@@ -38,7 +38,11 @@
 * تابع خطا (Loss Function): Sparse Categorical Crossentropy
 * استفاده از EarlyStopping برای جلوگیری از بیش‌برازش (Overfitting)
 
+## نتایج آموزش مدل
 
+نمودار زیر روند تغییر دقت مدل را در طول آموزش نشان می‌دهد:
+
+![Training Accuracy](images/training_accuracy.png)
 ## نتایج مدل
 
 نمونه‌ای از پیش‌بینی مدل روی تصاویر تست:
